@@ -152,6 +152,12 @@ body {
     margin: auto !important;
 }
 
+.m-container-height-large {
+    max-height: 100em !important;
+    max-width: 60em !important;
+    margin: auto !important;
+}
+
 /*------shadow------*/
 .m-shadow-small {
     -webkit-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2) !important;
